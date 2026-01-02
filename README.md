@@ -18,8 +18,8 @@
 
 ## ファイル構成（このフォルダに置く）
 - `gotobi_notifier.py` : 本体
-- `jp_holidays.csv` : 日本祝日CSV
-- `fed_bank_holidays.csv` : 米国祝日CSV
+- `jp_holidays.csv` : 日本祝日CSV(2020-2030年分)
+- `fed_bank_holidays.csv` : 米国祝日CSV(2020-2030年分)
 - `gotobi-fixing.state.json` : 実行後に自動生成（重複通知抑止用）
 
 ---
