@@ -3,7 +3,7 @@
 2020/1/20,"Birthday of Martin Luther King, Jr.",actual
 2020/2/17,Washington's Birthday,actual
 2020/5/25,Memorial Day,actual
-2020/7/3,Independence Day,observed (shifted from Sat to Fri)
+2020/7/4,Independence Day,no shifted
 2020/9/7,Labor Day,actual
 2020/10/12,Columbus Day,actual
 2020/11/11,Veterans Day,actual
@@ -13,14 +13,14 @@
 2021/1/18,"Birthday of Martin Luther King, Jr.",actual
 2021/2/15,Washington's Birthday,actual
 2021/5/31,Memorial Day,actual
-2021/6/18,Juneteenth National Independence Day,observed (shifted from Sat to Fri)
+2021/6/19,Juneteenth National Independence Day,no shifted
 2021/7/5,Independence Day,observed (shifted from Sun to Mon)
 2021/9/6,Labor Day,actual
 2021/10/11,Columbus Day,actual
 2021/11/11,Veterans Day,actual
 2021/11/25,Thanksgiving Day,actual
-2021/12/24,Christmas Day,observed (shifted from Sat to Fri)
-2021/12/31,New Year's Day,observed (shifted from Sat to Fri)
+2021/12/25,Christmas Day,no shifted
+2022/1/1,New Year's Day,no shifted
 2022/1/17,"Birthday of Martin Luther King, Jr.",actual
 2022/2/21,Washington's Birthday,actual
 2022/5/30,Memorial Day,actual
@@ -39,7 +39,7 @@
 2023/7/4,Independence Day,actual
 2023/9/4,Labor Day,actual
 2023/10/9,Columbus Day,actual
-2023/11/10,Veterans Day,observed (shifted from Sat to Fri)
+2023/11/11,Veterans Day,no shifted
 2023/11/23,Thanksgiving Day,actual
 2023/12/25,Christmas Day,actual
 2024/1/1,New Year's Day,actual
@@ -69,7 +69,7 @@
 2026/2/16,Washington's Birthday,actual
 2026/5/25,Memorial Day,actual
 2026/6/19,Juneteenth National Independence Day,actual
-2026/7/3,Independence Day,observed (shifted from Sat to Fri)
+2026/7/4,Independence Day,no shifted
 2026/9/7,Labor Day,actual
 2026/10/12,Columbus Day,actual
 2026/11/11,Veterans Day,actual
@@ -79,14 +79,14 @@
 2027/1/18,"Birthday of Martin Luther King, Jr.",actual
 2027/2/15,Washington's Birthday,actual
 2027/5/31,Memorial Day,actual
-2027/6/18,Juneteenth National Independence Day,observed (shifted from Sat to Fri)
+2027/6/19,Juneteenth National Independence Day,no shifted
 2027/7/5,Independence Day,observed (shifted from Sun to Mon)
 2027/9/6,Labor Day,actual
 2027/10/11,Columbus Day,actual
 2027/11/11,Veterans Day,actual
 2027/11/25,Thanksgiving Day,actual
-2027/12/24,Christmas Day,observed (shifted from Sat to Fri)
-2027/12/31,New Year's Day,observed (shifted from Sat to Fri)
+2027/12/25,Christmas Day,no shifted
+2028/1/1,New Year's Day,no shifted
 2028/1/17,"Birthday of Martin Luther King, Jr.",actual
 2028/2/21,Washington's Birthday,actual
 2028/5/29,Memorial Day,actual
@@ -94,7 +94,7 @@
 2028/7/4,Independence Day,actual
 2028/9/4,Labor Day,actual
 2028/10/9,Columbus Day,actual
-2028/11/10,Veterans Day,observed (shifted from Sat to Fri)
+2028/11/11,Veterans Day,no shifted
 2028/11/23,Thanksgiving Day,actual
 2028/12/25,Christmas Day,actual
 2029/1/1,New Year's Day,actual
